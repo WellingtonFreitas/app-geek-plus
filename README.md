@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+   <img alt="GeekPlus" src=".github/cover.png" width="800px">
 </p>
 
 
