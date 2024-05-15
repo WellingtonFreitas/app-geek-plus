@@ -38,7 +38,7 @@
 
    ```
    - Clone esse repositório:
-   $ git clone git@github.com:WellingtonFreitas/PayFlow-App.git
+   $ git clone git@github.com:WellingtonFreitas/app-geek-plus.git
 
    - Entre no diretório:
    $ cd app_geek_plus
